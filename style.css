@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+.heading{
+    box-shadow:12px 5px orange;
+    margin-top: 0%;
+    width: 100%;
+}
+canvas{
+    border: 5px peachpuff;
+    box-shadow: 4px 7px peachpuff;
+ border-radius: 27;  
+}
